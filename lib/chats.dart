@@ -175,7 +175,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('eren laporkan situasi'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -198,7 +198,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('situasi nya sangad genting'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -221,7 +221,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('segera lakukan evakuasi'),
                 ],
               ),
               trailing: Text('18.00'),
