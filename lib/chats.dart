@@ -37,7 +37,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER, NEW GENERATION DYNA'),
+                  Text('ULTRAMAN DECKER'),
                 ],
               ),
               trailing: Text('18.00'),
