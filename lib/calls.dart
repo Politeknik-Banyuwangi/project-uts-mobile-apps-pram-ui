@@ -61,7 +61,42 @@ class Calls extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'GUTS SELECT',
+                'Reiji',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18.0,
+                ),
+              ),
+              subtitle: Row(
+                children: [
+                  Icon(
+                    Icons.south_west,
+                    color: Colors.green,
+                    size: 16.0,
+                  ),
+                  SizedBox(
+                    width: 3.0,
+                  ),
+                  Text(
+                    '24 menit yang lalu',
+                    style: TextStyle(
+                      fontSize: 16.0,
+                    ),
+                  ),
+                ],
+              ),
+              trailing: Icon(
+                Icons.videocam,
+                color: Colors.green,
+              ),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i0.wp.com/www.cirebonkota.go.id/wp-content/uploads/2018/05/jokowi.jpg"),
+                radius: 30.0,
+              ),
+              title: Text(
+                'Hiyama',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18.0,
