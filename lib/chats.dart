@@ -48,7 +48,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'hiyama',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -71,7 +71,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'eren',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -94,7 +94,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'eren',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -117,7 +117,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'eren',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -140,7 +140,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'reiji',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -163,7 +163,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'Ezio',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -186,7 +186,7 @@ class Chats extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'Anda',
+                'GUTS SELECT',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               subtitle: Row(
@@ -244,7 +244,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Baik laksanakan'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -267,7 +267,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('evakuasi selesai'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -290,7 +290,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Cepat pergi dari lokasi'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -313,7 +313,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Baik'),
                 ],
               ),
               trailing: Text('18.00'),
