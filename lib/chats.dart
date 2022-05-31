@@ -60,7 +60,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Serangan Kaiju'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -83,7 +83,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Space Beast telah muncul'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -106,7 +106,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Cepat Kemarkas'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -129,7 +129,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Baiklah aku datang'),
                 ],
               ),
               trailing: Text('18.00'),
@@ -152,7 +152,7 @@ class Chats extends StatelessWidget {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text('ULTRAMAN DECKER'),
+                  Text('Petugas Hiyama cepat kemari'),
                 ],
               ),
               trailing: Text('18.00'),
