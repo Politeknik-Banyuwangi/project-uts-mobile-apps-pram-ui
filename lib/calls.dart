@@ -131,7 +131,7 @@ class Calls extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'GUTS SELECT',
+                'Ezio',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18.0,
@@ -166,7 +166,7 @@ class Calls extends StatelessWidget {
                 radius: 30.0,
               ),
               title: Text(
-                'GUTS SELECT',
+                'Eren',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18.0,
